@@ -1,0 +1,11 @@
+.property-details {
+  text-align: center;
+}
+.property-details h2 {
+  margin-bottom: 8px;
+  color: #273755;
+}
+.property-details p {
+  margin-bottom: 30px;
+  color: #273755;
+}

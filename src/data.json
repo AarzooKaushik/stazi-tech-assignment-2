@@ -1,0 +1,393 @@
+[
+    {
+        "id":1,
+        "img":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvcGVydHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Pecan St.",
+        "city":"New York",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"5225",
+        "area":"732",
+        "room":"4"   
+        },
+    {
+        "id":2,
+        "img":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Parker Rd.",
+        "city":"New York",
+        "name":"Costo Wholesale - 1021 Oak Forest Ln, Mryle Beach, SC",
+        "rent":"7896",
+        "area":"567",
+        "room":"3" 
+    },
+    {
+        "id":3,
+        "img":"https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"3890 Poplar Dr.",
+        "city":"New York",
+        "name":"Regal North Hills, 4150 Main at North Hills St, Releigh",
+        "rent":"6789",
+        "area":"765",
+        "room":"5" 
+    },
+    {
+        "id":4,
+        "img":"https://images.unsplash.com/photo-1605146769289-440113cc3d00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Green Rd.",
+        "city":"New York",
+        "name":"Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+        "rent":"3456",
+        "area":"456",
+        "room":"4" 
+    },
+    {
+        "id":5,
+        "img":"https://plus.unsplash.com/premium_photo-1661876449499-26de7959878f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"3540 Down Street",
+        "city":"New York",
+        "name":"Regal North Hills, 4150 Main at North Hills St, Releigh",
+        "rent":"7654",
+        "area":"876",
+        "room":"3" 
+    },
+    {
+        "id":6,
+        "img":"https://images.unsplash.com/photo-1602941525421-8f8b81d3edbb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"3890 Poplar Dr.",
+        "city":"New York",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"8976",
+        "area":"2345",
+        "room":"5" 
+    },
+    {
+        "id":7,
+        "img":"https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Pecan St.",
+        "city":"New York",
+        "name":"Regal North Hills, 4150 Main at North Hills St, Releigh",
+        "rent":"4351",
+        "area":"345",
+        "room":"4" 
+    },
+    {
+        "id":8,
+        "img":"https://images.unsplash.com/photo-1582647509711-c8aa8a8bda71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"3540 Down Street",
+        "city":"New York",
+        "name":"Costo Wholesale - 1021 Oak Forest Ln, Mryle Beach, SC",
+        "rent":"5678",
+        "area":"567",
+        "room":"3" 
+    },
+    {
+        "id": 9,
+        "img":"https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Parker Rd.",
+        "city":"New York",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"5749",
+        "area":"897",
+        "room":"5" 
+    },
+    {
+        "id":10 ,
+
+        "img":"https://plus.unsplash.com/premium_photo-1661964475795-f0cb85767a88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG91c2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Green Rd.",
+        "city":"Mumbai",
+        "name":"Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+        "rent":"5842",
+        "area":"456",
+        "room":"4" 
+    },
+    {
+        "id":11 ,
+
+        "img":"https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG91c2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"3890 Poplar Dr.",
+        "city":"Mumbai",
+        "name":"Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+        "rent":"3438",
+        "area":"678",
+        "room":"3" 
+    },
+    {
+        "id": 12,
+
+        "img":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdXNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"3540 Down Street",
+        "city":"Mumbai",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"4854",
+        "area":"768",
+        "room":"5" 
+    }
+    ,
+    {
+        "id": 13,
+
+        "img":"https://images.unsplash.com/photo-1572120360610-d971b9d7767c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhvdXNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"3540 Down Street",
+        "city":"Mumbai",
+        "name":"Costo Wholesale - 1021 Oak Forest Ln, Mryle Beach, SC",
+        "rent":"4545",
+        "area":"598",
+        "room":"4" 
+    }
+    ,
+    {
+        "id": 14,
+
+        "img":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG91c2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Parker Rd.",
+        "city":"Mumbai",
+        "name":"Regal North Hills, 4150 Main at North Hills St, Releigh",
+        "rent":"4543",
+        "area":"354",
+        "room":"3" 
+    }
+    ,
+    {
+        "id":15 ,
+
+        "img":"https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdXNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"3890 Poplar Dr.",
+        "city":"Mumbai",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"4433",
+        "area":"758",
+        "room":"5" 
+    }
+    ,
+    {
+        "id": 16,
+
+        "img":"https://images.unsplash.com/photo-1598228723793-52759bba239c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhvdXNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Pecan St.",
+        "city":"Mumbai",
+        "name":"Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+        "rent":"3455",
+        "area":"732",
+        "room":"4" 
+    }  ,
+    {
+        "id": 17,
+
+        "img":"https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhvdXNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Parker Rd.",
+        "city":"Mumbai",
+        "name":"Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+        "rent":"3453",
+        "area":"678",
+        "room":"3" 
+    }  ,
+    {
+        "id": 18,
+
+        "img":"https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aG91c2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Green Rd.",
+        "city":"Mumbai",
+        "name":"Costo Wholesale - 1021 Oak Forest Ln, Mryle Beach, SC",
+        "rent":"3453",
+        "area":"876",
+        "room":"5" 
+    } ,
+    {
+        "id":19 ,
+
+        "img":"https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmlsbGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"3890 Poplar Dr.",
+        "city":"London",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"8374",
+        "area":"932",
+        "room":"4" 
+    },
+    {
+        "id": 20,
+
+        "img":"https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dmlsbGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Pecan St.",
+        "city":"London",
+        "name":"Regal North Hills, 4150 Main at North Hills St, Releigh",
+        "rent":"4546",
+        "area":"487",
+        "room":"3" 
+    },
+    {
+        "id": 21,
+
+        "img":"https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dmlsbGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Parker Rd.",
+        "city":"London",
+        "name":"Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+        "rent":"8234",
+        "area":"657",
+        "room":"5" 
+    },
+    {
+        "id":22 ,
+
+        "img":"https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dmlsbGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Green Rd.",
+        "city":"London",
+        "name":"Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+        "rent":"4342",
+        "area":"567",
+        "room":"4" 
+    },
+    {
+        "id": 23,
+
+        "img":"https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dmlsbGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"3890 Poplar Dr.",
+        "city":"London",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"3424",
+        "area":"871",
+        "room":"3" 
+    },
+    {
+        "id": 24,
+
+        "img":"https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHZpbGxhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Pecan St.",
+        "city":"London",
+        "name":"Costo Wholesale - 1021 Oak Forest Ln, Mryle Beach, SC",
+        "rent":"4344",
+        "area":"687",
+        "room":"5" 
+    },
+    {
+        "id": 25,
+
+        "img":"https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHZpbGxhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Parker Rd.",
+        "city":"London",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"4456",
+        "area":"678",
+        "room":"4" 
+    },
+    {
+        "id": 26,
+
+        "img":"https://plus.unsplash.com/premium_photo-1661915661139-5b6a4e4a6fcc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHZpbGxhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Green Rd.",
+        "city":"London",
+        "name":"Regal North Hills, 4150 Main at North Hills St, Releigh",
+        "rent":"4656",
+        "area":"946",
+        "room":"3" 
+    },
+    {
+        "id":27 ,
+
+        "img":"https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHZpbGxhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Pecan St.",
+        "city":"London",
+        "name":"Costo Wholesale - 1021 Oak Forest Ln, Mryle Beach, SC",
+        "rent":"7856",
+        "area":"751",
+        "room":"5" 
+    },
+    {
+        "id": 28,
+
+        "img":"https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dmlsbGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"3890 Poplar Dr.",
+        "city":"Paris",
+        "name":"Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+        "rent":"4356",
+        "area":"455",
+        "room":"4" 
+    },
+    {
+        "id": 29,
+
+        "img":"https://images.unsplash.com/photo-1554469384-e58fac16e23a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnVpbGRpbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Green Rd.",
+        "city":"Paris",
+        "name":"Costo Wholesale - 1021 Oak Forest Ln, Mryle Beach, SC",
+        "rent":"6577",
+        "area":"345",
+        "room":"3" 
+    },
+    {
+        "id": 30,
+
+        "img":"https://plus.unsplash.com/premium_photo-1680157071241-034d017884ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJ1aWxkaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Parker Rd.",
+        "city":"Paris",
+        "name":"Regal North Hills, 4150 Main at North Hills St, Releigh",
+        "rent":"5768",
+        "area":"455",
+        "room":"5" 
+    },
+    {
+        "id": 31,
+
+        "img":"https://images.unsplash.com/photo-1428366890462-dd4baecf492b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJ1aWxkaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Pecan St.",
+        "city":"Paris",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"6897",
+        "area":"543",
+        "room":"4" 
+    },
+    {
+        "id": 32,
+
+        "img":"https://images.unsplash.com/photo-1554435493-93422e8220c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJ1aWxkaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Green Rd.",
+        "city":"Paris",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"7655",
+        "area":"345",
+        "room":"3" 
+    },
+    {
+        "id": 33,
+
+        "img":"https://images.unsplash.com/photo-1542361345-89e58247f2d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJ1aWxkaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"3890 Poplar Dr.",
+        "city":"Paris",
+        "name":"Costo Wholesale - 1021 Oak Forest Ln, Mryle Beach, SC",
+        "rent":"7564",
+        "area":"767",
+        "room":"5" 
+    },
+    {
+        "id": 34,
+
+        "img":"https://images.unsplash.com/photo-1460317442991-0ec209397118?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXBhcnRtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Parker Rd.",
+        "city":"Paris",
+        "name":"Regal North Hills, 4150 Main at North Hills St, Releigh",
+        "rent":"5677",
+        "area":"343",
+        "room":"4" 
+    },
+    {
+        "id": 35,
+
+        "img":"https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXBhcnRtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Pecan St.",
+        "city":"Paris",
+        "name":"RCE theaters - 907 S Beckford Dr,Henderson, NC 27536",
+        "rent":"6566",
+        "area":"987",
+        "room":"3" 
+    },
+    {
+        "id": 36,
+
+        "img":"https://images.unsplash.com/photo-1574362848149-11496d93a7c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "location":"8558 Parker Rd.",
+        "city":"Paris",
+        "name":"Costo Wholesale - 1021 Oak Forest Ln, Mryle Beach, SC",
+        "rent":"5465",
+        "area":"2000",
+        "room":"5" 
+    }
+]
